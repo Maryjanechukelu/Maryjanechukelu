@@ -1,8 +1,7 @@
-[![MasterHead](https://www.bing.com/images/search?view=detailV2&ccid=6EsTtR6V&id=B8C98C00A8E0C35BC5FBE418987E0034D2CB6F1F&thid=OIP.6EsTtR6VWSYmuUZpIYoY2gAAAA&mediaurl=https%3a%2f%2fthumbs.gfycat.com%2fOccasionalDamagedIggypops-max-1mb.gif&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.e84b13b51e95592626b94669218a18da%3frik%3dH2%252fL0jQAfpgY5A%26pid%3dImgRaw%26r%3d0&exph=250&expw=444&q=Coding+Banner+GIF&simid=608028788236768654&FORM=IRPRST&ck=666FA6181924908A3F57A0CA8933184A&selectedIndex=0)]
-<h1 align="center">Hi 👋, I'm Maryjane Chukelu</h1>
-<h3 align="center">A current Full Stack Software Engineering Student</h3> 
-<img align="right" alt="Coding" width="500" src="https://tenor.com/view/programming-gif-25868426">
+<h1 style="font-family:script;" align="center"> Hi there <img src="https://giphy.com/gifs/scaler-official-computer-laptop-hello-world-hpXdHPfFI5wTABdDx9" width="29px">
 
+<h1 align="center">Hi 👋, I'm Maryjane Chukelu</h1>
+<h3 align="center">A Current Full Stack Software Engineering Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maryjanechukelu&label=Profile%20views&color=0e75b6&style=flat" alt="maryjanechukelu" /> </p>
 
@@ -30,7 +29,9 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/maryjane chukelu"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="maryjane chukelu" /></a></p><br><br>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maryjanechukelu&show_icons=true&locale=en&layout=compact" alt="maryjanechukelu" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maryjanechukelu&show_icons=true&locale=en" alt="maryjanechukelu" /></p>
-
