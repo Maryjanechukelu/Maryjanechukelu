@@ -1,8 +1,8 @@
-<h1 style="font-family:script;" align="center"> <img src="https://c.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif"
+<h1 style="font-family:script;" align="center"> <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif"
 <h1 align="center">Hi 👋, I'm Maryjane Chukelu</h1>
 <h3 align="center">A Current Full Stack Software Engineering Student</h3>
 
-<p align="left"> <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" </p>
+<p align="left"> alt="coding" width="400" <img src="https://c.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif" </p>
 
 <p align="left"> <a href="https://twitter.com/maryjanechukelu" target="blank"><img src="https://img.shields.io/twitter/follow/maryjanechukelu?logo=twitter&style=for-the-badge" alt="maryjanechukelu" /></a> </p>
 
