@@ -1,4 +1,4 @@
-<h1 style="font-family:script;" align="center"> width="600" <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif"> 
+<h1 style="font-family:script;" align="center"> <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"> 
 <h1 align="center">Hi 👋, I'm Maryjane Chukelu</h1>
 <h3 align="center">A Current Full Stack Software Engineering Student</h3>
 <img align="right" alt="coding" width="400" <img src="https://c.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif"> 
