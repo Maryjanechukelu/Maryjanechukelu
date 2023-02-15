@@ -1,4 +1,4 @@
-<h1 style="font-family:script;" align="center"> <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif"
+<h1 style="font-family:script;" align="center"> <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif"> /h1>
 <h1 align="center">Hi 👋, I'm Maryjane Chukelu</h1>
 <h3 align="center">A Current Full Stack Software Engineering Student</h3>
 
