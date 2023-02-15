@@ -1,4 +1,4 @@
-<h1 style="font-family:script;" align="center"> Hi there <img src="https://giphy.com/gifs/scaler-official-computer-laptop-hello-world-hpXdHPfFI5wTABdDx9" width="29px">
+<h1 style="font-family:script;" align="center"> Hi there <img src="https://c.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif"> width="29px">
 
 <h1 align="center">Hi 👋, I'm Maryjane Chukelu</h1>
 <h3 align="center">A Current Full Stack Software Engineering Student</h3>
