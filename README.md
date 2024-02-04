@@ -6,13 +6,9 @@
 <p align="left"> <a href="https://twitter.com/maryjanechukelu" target="blank"><img src="https://img.shields.io/twitter/follow/maryjanechukelu?logo=twitter&style=for-the-badge" alt="maryjanechukelu" /></a> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maryjanechukelu&label=Profile%20views&color=0e75b6&style=flat" alt="maryjanechukelu" /> </p>
 
-- 🔭 I’m currently working on **Higher Level Programming Language**
+- 🔭 I’m currently working on **Becoming A Better Frontend Developer**
 
-- 🌱 I’m currently learning **ALX Software Engineering 1 Year Course**
-
-- 🤝 I’m looking for help with **C programming language**
-
-- 💬 Ask me about **Nothing for now...still learning**
+- 🌱 I’m currently learning **Javascript  Typescript Reactjs Vuejs**
 
 - 📫 How to reach me **maryjanechukelu@gmail.com**
 
