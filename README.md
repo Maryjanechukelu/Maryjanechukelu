@@ -1,12 +1,12 @@
 <h1 style="font-family:script;" align="center"> <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"> 
 <h1 align="center">Hi 👋, I'm Maryjane Chukelu</h1>
-<h3 align="center">A Frontend Developer</h3>
+<h3 align="center">A Fullstack Software Developer</h3>
 <img align="right" alt="coding" width="400" <img src="https://c.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif"> 
 
 <p align="left"> <a href="https://twitter.com/maryjanechukelu" target="blank"><img src="https://img.shields.io/twitter/follow/maryjanechukelu?logo=twitter&style=for-the-badge" alt="maryjanechukelu" /></a> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maryjanechukelu&label=Profile%20views&color=0e75b6&style=flat" alt="maryjanechukelu" /> </p>
 
-- 🔭 I’m currently working on **Becoming A Better Frontend Developer**
+- 🔭 I’m currently working on **building and helping startups scale up through my agency**
 
 - ✉️  You can contact me at [maryjanechukelu@gmail.com](mailto:maryjanechukelu@gmail.com)
 
