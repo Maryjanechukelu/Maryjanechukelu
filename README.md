@@ -40,13 +40,8 @@
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><br>
   <a href="https://v2.chakra-ui.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chakra-colored.svg" width="36" height="36" alt="chakraui" /></a>
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maryjanechukelu&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="maryjanechukelu" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maryjanechukelu&show_icons=true&locale=en&theme=tokyonight" alt="maryjanechukelu" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maryjanechukelu&&theme=tokyonight" alt="maryjanechukelu" /></p>
-
-GitHub Stats</b>
+<b>GitHub Stats</b>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maryjanechukelu&show_icons=true&locale=en&layout=compact&title_color=facc15&text_color=ffffff&icon_color=0891b2&bg_color=1c191"alt="maryjanechukelu" /></p>
 
 [![@maryjanechukelu's Holopin board](https://holopin.me/maryjanechukelu)](https://holopin.io/@maryjanechukelu)
 
@@ -56,7 +51,6 @@ GitHub Stats</b>
 
 <a href="http://www.github.com/maryjanechukelu"><img src="https://activity-graph.herokuapp.com/graph?username=maryjanechukelu&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-[![maryjanechukelu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=maryjanechukelu)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Support Me
 
