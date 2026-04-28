@@ -40,3 +40,8 @@
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><br>
   <a href="https://v2.chakra-ui.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chakra-colored.svg" width="36" height="36" alt="chakraui" /></a>
 </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maryjanechukelu&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="maryjanechukelu" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maryjanechukelu&show_icons=true&locale=en&theme=tokyonight" alt="maryjanechukelu" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maryjanechukelu&&theme=tokyonight" alt="maryjanechukelu" /></p>
